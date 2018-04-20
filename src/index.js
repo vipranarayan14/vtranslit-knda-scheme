@@ -5,6 +5,9 @@ export const vTranslitKndaScheme = {
     'type': 'brahmic'
   },
   'data': {
+    'ayogavaha': [
+      '\u0C82', '\u0C83'
+    ],
     'consonants': [
       '\u0C95', '\u0C96', '\u0C97', '\u0C98', '\u0C99',
       '\u0C9A', '\u0C9B', '\u0C9C', '\u0C9D', '\u0C9E',
@@ -25,8 +28,7 @@ export const vTranslitKndaScheme = {
     ],
     'symbols': [
       '\u0CE6', '\u0CE7', '\u0CE8', '\u0CE9', '\u0CEA', '\u0CEB', '\u0CEC', '\u0CED', '\u0CEE', '\u0CEF',
-      '।', '॥', '', '\u0CBD',
-      '\u0C82', '\u0C83', '\u0C81'
+      '\u0964', '\u0965', '', '\u0CBD', '\u0C81'
     ],
     'virama': [
       '\u0CCD'
