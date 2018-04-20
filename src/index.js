@@ -30,9 +30,6 @@ export const vTranslitKndaScheme = {
       '\u0CE6', '\u0CE7', '\u0CE8', '\u0CE9', '\u0CEA', '\u0CEB', '\u0CEC', '\u0CED', '\u0CEE', '\u0CEF',
       '\u0964', '\u0965', '', '\u0CBD', '\u0C81'
     ],
-    'virama': [
-      '\u0CCD'
-    ],
     'vowelMarks': [
       '', '\u0CBE', '\u0CBF', '\u0CC0', '\u0CC1', '\u0CC2',
       '\u0CC3', '\u0CC4', '', '',
