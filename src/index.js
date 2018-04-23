@@ -2,7 +2,8 @@ export const vTranslitKndaScheme = {
   'about': {
     'code': 'Knda',
     'name': 'Kannada',
-    'type': 'brahmic'
+    'type': 'brahmic',
+    'unicodeBlock': '0C80-0CFF'
   },
   'data': {
     'ayogavaha': [
