@@ -1,7 +1,7 @@
 export const vTranslitKndaScheme = {
   'about': {
-    'schemeCode': 'Knda',
-    'schemeName': 'Kannada',
+    'code': 'Knda',
+    'name': 'Kannada',
     'type': 'brahmic'
   },
   'data': {
