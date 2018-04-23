@@ -78,7 +78,8 @@ var vTranslitKndaScheme = exports.vTranslitKndaScheme = {
   'about': {
     'code': 'Knda',
     'name': 'Kannada',
-    'type': 'brahmic'
+    'type': 'brahmic',
+    'unicodeBlock': '0C80-0CFF'
   },
   'data': {
     'ayogavaha': ['\u0C82', '\u0C83'],
