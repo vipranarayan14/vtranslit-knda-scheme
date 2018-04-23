@@ -76,8 +76,8 @@ Object.defineProperty(exports, "__esModule", {
 });
 var vTranslitKndaScheme = exports.vTranslitKndaScheme = {
   'about': {
-    'schemeCode': 'Knda',
-    'schemeName': 'Kannada',
+    'code': 'Knda',
+    'name': 'Kannada',
     'type': 'brahmic'
   },
   'data': {
