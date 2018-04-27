@@ -4,9 +4,9 @@
 	else if(typeof define === 'function' && define.amd)
 		define([], factory);
 	else if(typeof exports === 'object')
-		exports["vTranslitKndaScheme"] = factory();
+		exports["vTranslitSchemeKnda"] = factory();
 	else
-		root["vTranslitKndaScheme"] = factory();
+		root["vTranslitSchemeKnda"] = factory();
 })(typeof self !== 'undefined' ? self : this, function() {
 return /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
@@ -83,7 +83,7 @@ return /******/ (function(modules) { // webpackBootstrap
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var vTranslitKndaScheme = exports.vTranslitKndaScheme = {
+var vTranslitSchemeKnda = exports.vTranslitSchemeKnda = {
   'about': {
     'code': 'Knda',
     'name': 'Kannada',
@@ -101,5 +101,5 @@ var vTranslitKndaScheme = exports.vTranslitKndaScheme = {
 };
 
 /***/ })
-/******/ ])["vTranslitKndaScheme"];
+/******/ ]);
 });

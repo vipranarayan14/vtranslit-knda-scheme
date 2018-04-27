@@ -1,4 +1,4 @@
-window["vTranslitKndaScheme"] =
+window["vTranslitSchemeKnda"] =
 /******/ (function(modules) { // webpackBootstrap
 /******/ 	// The module cache
 /******/ 	var installedModules = {};
@@ -74,7 +74,7 @@ window["vTranslitKndaScheme"] =
 Object.defineProperty(exports, "__esModule", {
   value: true
 });
-var vTranslitKndaScheme = exports.vTranslitKndaScheme = {
+var vTranslitSchemeKnda = exports.vTranslitSchemeKnda = {
   'about': {
     'code': 'Knda',
     'name': 'Kannada',
@@ -92,4 +92,4 @@ var vTranslitKndaScheme = exports.vTranslitKndaScheme = {
 };
 
 /***/ })
-/******/ ])["vTranslitKndaScheme"];
+/******/ ])["vTranslitSchemeKnda"];
