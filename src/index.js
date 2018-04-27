@@ -1,4 +1,4 @@
-export const vTranslitKndaScheme = {
+export const vTranslitSchemeKnda = {
   'about': {
     'code': 'Knda',
     'name': 'Kannada',

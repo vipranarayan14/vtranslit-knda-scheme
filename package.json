@@ -1,5 +1,5 @@
 {
-  "name": "vtranslit-knda-scheme",
+  "name": "vtranslit-scheme-knda",
   "version": "0.2.0",
   "description": "Kannada scheme for vTranslit.",
   "keywords": [
@@ -7,9 +7,9 @@
     "vtranslit",
     "indic scripts"
   ],
-  "main": "dist/vtranslit-knda-scheme.npm.js",
+  "main": "dist/vtranslit-scheme-knda.npm.js",
   "files": [
-    "dist/vtranslit-knda-scheme.npm.js"
+    "dist/vtranslit-scheme-knda.npm.js"
   ],
   "scripts": {
     "build": "rimraf dist && webpack",
@@ -32,10 +32,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/vipranarayan14/vtranslit-knda-scheme.git"
+    "url": "git+https://github.com/vipranarayan14/vtranslit-scheme-knda.git"
   },
   "bugs": {
-    "url": "https://github.com/vipranarayan14/vtranslit-knda-scheme/issues"
+    "url": "https://github.com/vipranarayan14/vtranslit-scheme-knda/issues"
   },
-  "homepage": "https://github.com/vipranarayan14/vtranslit-knda-scheme#readme"
+  "homepage": "https://github.com/vipranarayan14/vtranslit-scheme-knda#readme"
 }
